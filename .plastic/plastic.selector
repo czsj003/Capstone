@@ -1,0 +1,4 @@
+repository "Capstone@EventSetters@cloud"
+  path "/"
+    br "/main"
+    co "/main"
